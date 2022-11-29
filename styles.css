@@ -1,0 +1,19 @@
+body {
+  display: flex;
+  text-align: center;
+  background-color: blanchedalmond;
+  flex-direction: column;
+  align-items: center;
+  font-size: small;
+}
+
+h1 {
+  color: purple;
+}
+
+img {
+  width: 25%;
+  height: 25%;
+  display: flex;
+  justify-content: center;
+}
